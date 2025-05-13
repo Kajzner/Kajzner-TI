@@ -1,0 +1,8 @@
+psycopg2-binary # Pakiet, który umożliwia połączenie aplikacji Python z bazą danych PostgreSQL
+# Podaj wszystkie biblioteki, z których korzystasz w projekcie. Przykład:
+geoalchemy2
+sqlalchemy
+pydantic
+fastapi
+uvicorn
+shapely
