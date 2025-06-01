@@ -29,3 +29,6 @@ INSERT INTO person (first_name, last_name, person_type_id, age) VALUES
     ('Freddy', 'Fazbear', 3, 999), 
     ('Adrian', 'Bojno', 1, 23),
     ('Madera', 'Pomidorowa', 1, 24);
+
+ALTER TABLE person ADD COLUMN latitude FLOAT;
+ALTER TABLE person ADD COLUMN longitude FLOAT;
